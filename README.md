@@ -1,5 +1,4 @@
 # Log Analysis
-This is a project required for Full Stack Nanodegree - Udacity.
 
 >basically this project is an internal reporting tool for a team working on a newspaper site, the database for the newspaper site contains newspaper articles, as well as the web server log for the site. The log has a database row for each time a reader loaded a web page. This reporting tool use information from the database to answer questions about the site's user activity.
 
